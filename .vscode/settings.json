@@ -1,0 +1,15 @@
+{
+    "cSpell.enableFiletypes": [
+        "!markdown",
+        "aspnetcorerazor",
+        "clojure",
+        "code-runner-output",
+        "groovy",
+        "jupyter",
+        "log"
+    ],
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}
