@@ -1,11 +1,11 @@
-##What is a Constructor?
+## What is a Constructor?
 A constructor is a member function of a class which initializes objects of a class.,it is automatically called when object is created. *it is special type of member function*.
 - constructor has the same name as class , don't have any return type and it is automatically called when an object is created
 
 <h4>Types of Constructors: </h4> 
 - Default constructor(no arguments), Parameterized constructor(that takes arguments) and Copy constructor(that initializes an object using another object of same class)
 
-##What is  Destructor? 
+## What is  Destructor? 
 - It is used to delete an object,it is called when a function end or program ends.
 - have the same name as class preceded with (~).
 - there can be only one destructor with no parameter and return type
