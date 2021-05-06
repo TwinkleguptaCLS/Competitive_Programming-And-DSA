@@ -4,29 +4,30 @@
 - Data is hidden and cannot be directly accessed unlike in procedural programming
 - Examples - C++,JAVA,Python,PHP,C# etc..
 
-<code>FOR EX.
+FOR EX.
+```cpp
 class Employee{ 
-    &nbsp;string name;
-    &nbsp;int age;
-    &nbsp;float salary;
-    &nbsp;public:
-    &nbsp;{
-        &nbsp;&nbsp;void setDAta(string ename,int eage,float esalary)
-        &nbsp;{
-            &nbsp;&nbsp;&nbsp;name = ename;
-            &nbsp;&nbsp;&nbsp;age =eage;
-            &nbsp;&nbsp;&nbsp;salary= esalary;
-       &nbsp;}
-        &nbsp;void getData()
-        &nbsp;{
-            &nbsp;&nbsp;&nbsp;cout<<name<<"&nbsp;"<<age<<"&nbsp;"<<salary; 
-        &nbsp;}
+    string name;
+    int age;
+    float salary;
+    public:
+    {
+        void setDAta(string ename,int eage,float esalary)
+        {
+            name = ename;
+            age =eage;
+            salary= esalary;
+        }
+        void getData()
+        {
+            cout<<name<<"&nbsp;"<<age<<"&nbsp;"<<salary; 
+        }
     }
 };
 int main()
 {
-    &nbsp;Employee E1;
-    &nbsp;E1.setData('Michael',35,34000.0);
-    &nbsp;E1.getData();
+    Employee E1;
+    E1.setData('Michael',35,34000.0);
+    E1.getData();
 }
- </code>
+```
