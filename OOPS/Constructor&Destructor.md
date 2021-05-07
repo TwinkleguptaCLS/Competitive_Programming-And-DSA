@@ -65,4 +65,8 @@ int main()
 
 
 
+<<<<<<< HEAD
 <Footer align="right">Reference : Coding Snippets</Footer>
+=======
+<Footer align="right">Reference : Coding Snippets</Footer>
+>>>>>>> origin/master
