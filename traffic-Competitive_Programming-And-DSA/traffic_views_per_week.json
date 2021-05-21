@@ -1,0 +1,26 @@
+{
+  "count": 45,
+  "uniques": 23,
+  "views": [
+    {
+      "timestamp": "2021-05-14T00:00:00Z",
+      "count": 24,
+      "uniques": 10
+    },
+    {
+      "timestamp": "2021-05-15T00:00:00Z",
+      "count": 7,
+      "uniques": 6
+    },
+    {
+      "timestamp": "2021-05-17T00:00:00Z",
+      "count": 11,
+      "uniques": 4
+    },
+    {
+      "timestamp": "2021-05-18T00:00:00Z",
+      "count": 3,
+      "uniques": 3
+    }
+  ]
+}
