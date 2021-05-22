@@ -13,15 +13,26 @@ int main()
     {
         cin>>a[i];
     }
-    int curr; int ans=0;
+    int curr=0; int ans=INT_MIN;
+    // for(int i=0;i<n;i++)
+    // {
+    //     curr=0;
+    //     for(int j=i;j<n;j++)
+    //     {
+    //         curr+=a[j];
+    //         ans = max(curr,ans);
+    //     }
+    // }
+    
+    //kadane's algo
     for(int i=0;i<n;i++)
     {
+      curr+=a[i];
+      if(curr<0)
+      {
         curr=0;
-        for(int j=i;j<n;j++)
-        {
-            curr+=a[j];
-            ans = max(curr,ans);
-        }
+      }
+      ans = max(curr,ans);
     }
     cout<<ans;
   return 0;
