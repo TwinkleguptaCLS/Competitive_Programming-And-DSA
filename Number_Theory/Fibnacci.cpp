@@ -1,5 +1,15 @@
 #include<bits/stdc++.h>
 using namespace std;
+
+int nthfib(int n)
+{
+  if(n==0 || n==1)
+  {
+    return n;
+  }
+   return nthfib(n-1)+nthfib(n-2);
+}
+
 int main()
 {
   #ifndef ONLINE_JUDGE
