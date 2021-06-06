@@ -4,18 +4,19 @@ using namespace std;
 bool isSafe(vector<vector<bool>> &board, int row, int col, int N)
 {
     int r, c;
+    //check left col
     for (c = 0; c < col; c++)
     {
         if (board[row][c])
             return false;
     }
-
+    //check upper left diagonal
     for (r = row, c = col; r >= 0 && c >= 0; r--, c--)
     {
         if (board[r][c])
             return false;
     }
-
+    //check lower left diagonal
     for (r = row, c = col; c >= 0 && r < N; r++, c--)
         if (board[r][c])
             return false;
