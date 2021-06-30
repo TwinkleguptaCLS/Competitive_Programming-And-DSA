@@ -2,20 +2,8 @@
   {
     "path": "/Twinkle0799/Competitive_Programming-And-DSA",
     "title": "Twinkle0799/Competitive_Programming-And-DSA: This repo consist all my persona...",
-    "count": 23,
-    "uniques": 18
-  },
-  {
-    "path": "/Twinkle0799/Competitive_Programming-And-DSA/tree/master/Graph",
-    "title": "Competitive_Programming-And-DSA/Graph at master · Twinkle0799/Competitive_Pro...",
-    "count": 5,
-    "uniques": 5
-  },
-  {
-    "path": "/Twinkle0799/Competitive_Programming-And-DSA/tree/master/Codechef",
-    "title": "Competitive_Programming-And-DSA/Codechef at master · Twinkle0799/Competitive_...",
-    "count": 4,
-    "uniques": 4
+    "count": 32,
+    "uniques": 20
   },
   {
     "path": "/Twinkle0799/Competitive_Programming-And-DSA/tree/master/DynammicProgramming",
@@ -24,9 +12,21 @@
     "uniques": 3
   },
   {
-    "path": "/Twinkle0799/Competitive_Programming-And-DSA/tree/master/Bit_Manipulation",
-    "title": "Competitive_Programming-And-DSA/Bit_Manipulation at master · Twinkle0799/Comp...",
-    "count": 2,
+    "path": "/Twinkle0799/Competitive_Programming-And-DSA/tree/master/Codechef",
+    "title": "Competitive_Programming-And-DSA/Codechef at master · Twinkle0799/Competitive_...",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/Twinkle0799/Competitive_Programming-And-DSA/tree/master/Graph",
+    "title": "Competitive_Programming-And-DSA/Graph at master · Twinkle0799/Competitive_Pro...",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/Twinkle0799/Competitive_Programming-And-DSA/tree/master/Backtrack",
+    "title": "Competitive_Programming-And-DSA/Backtrack at master · Twinkle0799/Competitive...",
+    "count": 3,
     "uniques": 2
   },
   {
@@ -34,12 +34,6 @@
     "title": "Competitive_Programming-And-DSA/LinkedList at master · Twinkle0799/Competitiv...",
     "count": 2,
     "uniques": 2
-  },
-  {
-    "path": "/Twinkle0799/Competitive_Programming-And-DSA/tree/master/Backtrack",
-    "title": "Competitive_Programming-And-DSA/Backtrack at master · Twinkle0799/Competitive...",
-    "count": 2,
-    "uniques": 1
   },
   {
     "path": "/Twinkle0799/Competitive_Programming-And-DSA/blob/master/Codechef/Bella_ciao.cpp",
@@ -56,6 +50,12 @@
   {
     "path": "/Twinkle0799/Competitive_Programming-And-DSA/blob/master/LinkedList/MergeLL.cpp",
     "title": "Competitive_Programming-And-DSA/MergeLL.cpp at master · Twinkle0799/Competiti...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Twinkle0799/Competitive_Programming-And-DSA/commits",
+    "title": "Commits · Twinkle0799/Competitive_Programming-And-DSA · GitHub",
     "count": 1,
     "uniques": 1
   }
