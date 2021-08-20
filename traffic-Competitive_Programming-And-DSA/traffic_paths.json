@@ -2,26 +2,8 @@
   {
     "path": "/Twinkle0799/Competitive_Programming-And-DSA",
     "title": "Twinkle0799/Competitive_Programming-And-DSA: This repo consist all my persona...",
-    "count": 20,
-    "uniques": 15
-  },
-  {
-    "path": "/Twinkle0799/Competitive_Programming-And-DSA/blob/master/LinkedList/AddTwoNumLL.cpp",
-    "title": "Competitive_Programming-And-DSA/AddTwoNumLL.cpp at master · Twinkle0799/Compe...",
-    "count": 5,
-    "uniques": 1
-  },
-  {
-    "path": "/Twinkle0799/Competitive_Programming-And-DSA/tree/master/LinkedList",
-    "title": "Competitive_Programming-And-DSA/LinkedList at master · Twinkle0799/Competitiv...",
-    "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/Twinkle0799/Competitive_Programming-And-DSA/blame/master/LinkedList/AddTwoNumLL.cpp",
-    "title": "Competitive_Programming-And-DSA/LinkedList/AddTwoNumLL.cpp at master · Twinkl...",
-    "count": 3,
-    "uniques": 1
+    "count": 17,
+    "uniques": 13
   },
   {
     "path": "/Twinkle0799/Competitive_Programming-And-DSA/tree/master/Graph",
@@ -54,8 +36,26 @@
     "uniques": 1
   },
   {
-    "path": "/Twinkle0799/Competitive_Programming-And-DSA/blob/master/LinkedList/ReverseLinkedList.cpp",
-    "title": "Competitive_Programming-And-DSA/ReverseLinkedList.cpp at master · Twinkle0799...",
+    "path": "/Twinkle0799/Competitive_Programming-And-DSA/blob/master/Matrix/intro.cpp",
+    "title": "Competitive_Programming-And-DSA/intro.cpp at master · Twinkle0799/Competitive...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Twinkle0799/Competitive_Programming-And-DSA/blob/master/Number_Theory/Armstrong.cpp",
+    "title": "Competitive_Programming-And-DSA/Armstrong.cpp at master · Twinkle0799/Competi...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Twinkle0799/Competitive_Programming-And-DSA/blob/master/Number_Theory/BinAdd.cpp",
+    "title": "Competitive_Programming-And-DSA/BinAdd.cpp at master · Twinkle0799/Competitiv...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Twinkle0799/Competitive_Programming-And-DSA/blob/master/Number_Theory/DecToBin.cpp",
+    "title": "Competitive_Programming-And-DSA/DecToBin.cpp at master · Twinkle0799/Competit...",
     "count": 1,
     "uniques": 1
   }
