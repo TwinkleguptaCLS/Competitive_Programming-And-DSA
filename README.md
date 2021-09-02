@@ -4,62 +4,62 @@
 
 **Example usage repository: [yi-Xu-0100/traffic2badge](https://github.com/yi-Xu-0100/traffic2badge).**
 
-## 📚 [total-traffic-data-badge](https://github.com/Twinkle0799/Competitive_Programming-And-DSA/tree/traffic#readme)
+## 📚 [total-traffic-data-badge](https://github.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/tree/traffic#readme)
 
-### 📷 Badges without link of [total-traffic-data-badge](https://github.com/Twinkle0799/Competitive_Programming-And-DSA/tree/traffic#readme)
+### 📷 Badges without link of [total-traffic-data-badge](https://github.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/tree/traffic#readme)
 
-![total views](https://raw.githubusercontent.com/Twinkle0799/Competitive_Programming-And-DSA/traffic/total_views.svg)
-![total views per week](https://raw.githubusercontent.com/Twinkle0799/Competitive_Programming-And-DSA/traffic/total_views_per_week.svg)
-![total clones](https://raw.githubusercontent.com/Twinkle0799/Competitive_Programming-And-DSA/traffic/total_clones.svg)
-![total clones per week](https://raw.githubusercontent.com/Twinkle0799/Competitive_Programming-And-DSA/traffic/total_clones_per_week.svg)
+![total views](https://raw.githubusercontent.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/traffic/total_views.svg)
+![total views per week](https://raw.githubusercontent.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/traffic/total_views_per_week.svg)
+![total clones](https://raw.githubusercontent.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/traffic/total_clones.svg)
+![total clones per week](https://raw.githubusercontent.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/traffic/total_clones_per_week.svg)
 
 ```markdown
-![total views](https://raw.githubusercontent.com/Twinkle0799/Competitive_Programming-And-DSA/traffic/total_views.svg)
-![total views per week](https://raw.githubusercontent.com/Twinkle0799/Competitive_Programming-And-DSA/traffic/total_views_per_week.svg)
-![total clones](https://raw.githubusercontent.com/Twinkle0799/Competitive_Programming-And-DSA/traffic/total_clones.svg)
-![total clones per week](https://raw.githubusercontent.com/Twinkle0799/Competitive_Programming-And-DSA/traffic/total_clones_per_week.svg)
+![total views](https://raw.githubusercontent.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/traffic/total_views.svg)
+![total views per week](https://raw.githubusercontent.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/traffic/total_views_per_week.svg)
+![total clones](https://raw.githubusercontent.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/traffic/total_clones.svg)
+![total clones per week](https://raw.githubusercontent.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/traffic/total_clones_per_week.svg)
 ```
 
-### 🔗 Badges with link of [total-traffic-data-badge](https://github.com/Twinkle0799/Competitive_Programming-And-DSA/tree/traffic#readme)
+### 🔗 Badges with link of [total-traffic-data-badge](https://github.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/tree/traffic#readme)
 
-[![total views](https://raw.githubusercontent.com/Twinkle0799/Competitive_Programming-And-DSA/traffic/total_views.svg)](https://github.com/Twinkle0799/Competitive_Programming-And-DSA/tree/traffic#-total-traffic-data-badge)
-[![total views per week](https://raw.githubusercontent.com/Twinkle0799/Competitive_Programming-And-DSA/traffic/total_views_per_week.svg)](https://github.com/Twinkle0799/Competitive_Programming-And-DSA/tree/traffic#-total-traffic-data-badge)
-[![total clones](https://raw.githubusercontent.com/Twinkle0799/Competitive_Programming-And-DSA/traffic/total_clones.svg)](https://github.com/Twinkle0799/Competitive_Programming-And-DSA/tree/traffic#-total-traffic-data-badge)
-[![total clones per week](https://raw.githubusercontent.com/Twinkle0799/Competitive_Programming-And-DSA/traffic/total_clones_per_week.svg)](https://github.com/Twinkle0799/Competitive_Programming-And-DSA/tree/traffic#-total-traffic-data-badge)
+[![total views](https://raw.githubusercontent.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/traffic/total_views.svg)](https://github.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/tree/traffic#-total-traffic-data-badge)
+[![total views per week](https://raw.githubusercontent.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/traffic/total_views_per_week.svg)](https://github.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/tree/traffic#-total-traffic-data-badge)
+[![total clones](https://raw.githubusercontent.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/traffic/total_clones.svg)](https://github.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/tree/traffic#-total-traffic-data-badge)
+[![total clones per week](https://raw.githubusercontent.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/traffic/total_clones_per_week.svg)](https://github.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/tree/traffic#-total-traffic-data-badge)
 
 ```markdown
-[![total views](https://raw.githubusercontent.com/Twinkle0799/Competitive_Programming-And-DSA/traffic/total_views.svg)](https://github.com/Twinkle0799/Competitive_Programming-And-DSA/tree/traffic#-total-traffic-data-badge)
-[![total views per week](https://raw.githubusercontent.com/Twinkle0799/Competitive_Programming-And-DSA/traffic/total_views_per_week.svg)](https://github.com/Twinkle0799/Competitive_Programming-And-DSA/tree/traffic#-total-traffic-data-badge)
-[![total clones](https://raw.githubusercontent.com/Twinkle0799/Competitive_Programming-And-DSA/traffic/total_clones.svg)](https://github.com/Twinkle0799/Competitive_Programming-And-DSA/tree/traffic#-total-traffic-data-badge)
-[![total clones per week](https://raw.githubusercontent.com/Twinkle0799/Competitive_Programming-And-DSA/traffic/total_clones_per_week.svg)](https://github.com/Twinkle0799/Competitive_Programming-And-DSA/tree/traffic#-total-traffic-data-badge)
+[![total views](https://raw.githubusercontent.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/traffic/total_views.svg)](https://github.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/tree/traffic#-total-traffic-data-badge)
+[![total views per week](https://raw.githubusercontent.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/traffic/total_views_per_week.svg)](https://github.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/tree/traffic#-total-traffic-data-badge)
+[![total clones](https://raw.githubusercontent.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/traffic/total_clones.svg)](https://github.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/tree/traffic#-total-traffic-data-badge)
+[![total clones per week](https://raw.githubusercontent.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/traffic/total_clones_per_week.svg)](https://github.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/tree/traffic#-total-traffic-data-badge)
 ```
 
-## 📚 [Competitive_Programming-And-DSA](https://github.com/Twinkle0799/Competitive_Programming-And-DSA/tree/traffic/traffic-Competitive_Programming-And-DSA)
+## 📚 [Competitive_Programming-And-DSA](https://github.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/tree/traffic/traffic-Competitive_Programming-And-DSA)
 
-### 📷 Badges without link of [Competitive_Programming-And-DSA](https://github.com/Twinkle0799/Competitive_Programming-And-DSA/tree/traffic/traffic-Competitive_Programming-And-DSA)
+### 📷 Badges without link of [Competitive_Programming-And-DSA](https://github.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/tree/traffic/traffic-Competitive_Programming-And-DSA)
 
-![views](https://raw.githubusercontent.com/Twinkle0799/Competitive_Programming-And-DSA/traffic/traffic-Competitive_Programming-And-DSA/views.svg)
-![views per week](https://raw.githubusercontent.com/Twinkle0799/Competitive_Programming-And-DSA/traffic/traffic-Competitive_Programming-And-DSA/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Twinkle0799/Competitive_Programming-And-DSA/traffic/traffic-Competitive_Programming-And-DSA/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Twinkle0799/Competitive_Programming-And-DSA/traffic/traffic-Competitive_Programming-And-DSA/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/traffic/traffic-Competitive_Programming-And-DSA/views.svg)
+![views per week](https://raw.githubusercontent.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/traffic/traffic-Competitive_Programming-And-DSA/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/traffic/traffic-Competitive_Programming-And-DSA/clones.svg)
+![clones per week](https://raw.githubusercontent.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/traffic/traffic-Competitive_Programming-And-DSA/clones_per_week.svg)
 
 ```markdown
-![views](https://raw.githubusercontent.com/Twinkle0799/Competitive_Programming-And-DSA/traffic/traffic-Competitive_Programming-And-DSA/views.svg)
-![views per week](https://raw.githubusercontent.com/Twinkle0799/Competitive_Programming-And-DSA/traffic/traffic-Competitive_Programming-And-DSA/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/Twinkle0799/Competitive_Programming-And-DSA/traffic/traffic-Competitive_Programming-And-DSA/clones.svg)
-![clones per week](https://raw.githubusercontent.com/Twinkle0799/Competitive_Programming-And-DSA/traffic/traffic-Competitive_Programming-And-DSA/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/traffic/traffic-Competitive_Programming-And-DSA/views.svg)
+![views per week](https://raw.githubusercontent.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/traffic/traffic-Competitive_Programming-And-DSA/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/traffic/traffic-Competitive_Programming-And-DSA/clones.svg)
+![clones per week](https://raw.githubusercontent.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/traffic/traffic-Competitive_Programming-And-DSA/clones_per_week.svg)
 ```
 
-### 🔗 Badges with link of [Competitive_Programming-And-DSA](https://github.com/Twinkle0799/Competitive_Programming-And-DSA/tree/traffic/traffic-Competitive_Programming-And-DSA)
+### 🔗 Badges with link of [Competitive_Programming-And-DSA](https://github.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/tree/traffic/traffic-Competitive_Programming-And-DSA)
 
-[![views](https://raw.githubusercontent.com/Twinkle0799/Competitive_Programming-And-DSA/traffic/traffic-Competitive_Programming-And-DSA/views.svg)](https://github.com/Twinkle0799/Competitive_Programming-And-DSA/tree/traffic#-Competitive_Programming-And-DSA)
-[![views per week](https://raw.githubusercontent.com/Twinkle0799/Competitive_Programming-And-DSA/traffic/traffic-Competitive_Programming-And-DSA/views_per_week.svg)](https://github.com/Twinkle0799/Competitive_Programming-And-DSA/tree/traffic#-Competitive_Programming-And-DSA)
-[![clones](https://raw.githubusercontent.com/Twinkle0799/Competitive_Programming-And-DSA/traffic/traffic-Competitive_Programming-And-DSA/clones.svg)](https://github.com/Twinkle0799/Competitive_Programming-And-DSA/tree/traffic#-Competitive_Programming-And-DSA)
-[![clones per week](https://raw.githubusercontent.com/Twinkle0799/Competitive_Programming-And-DSA/traffic/traffic-Competitive_Programming-And-DSA/clones_per_week.svg)](https://github.com/Twinkle0799/Competitive_Programming-And-DSA/tree/traffic#-Competitive_Programming-And-DSA)
+[![views](https://raw.githubusercontent.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/traffic/traffic-Competitive_Programming-And-DSA/views.svg)](https://github.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/tree/traffic#-Competitive_Programming-And-DSA)
+[![views per week](https://raw.githubusercontent.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/traffic/traffic-Competitive_Programming-And-DSA/views_per_week.svg)](https://github.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/tree/traffic#-Competitive_Programming-And-DSA)
+[![clones](https://raw.githubusercontent.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/traffic/traffic-Competitive_Programming-And-DSA/clones.svg)](https://github.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/tree/traffic#-Competitive_Programming-And-DSA)
+[![clones per week](https://raw.githubusercontent.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/traffic/traffic-Competitive_Programming-And-DSA/clones_per_week.svg)](https://github.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/tree/traffic#-Competitive_Programming-And-DSA)
 
 ```markdown
-[![views](https://raw.githubusercontent.com/Twinkle0799/Competitive_Programming-And-DSA/traffic/traffic-Competitive_Programming-And-DSA/views.svg)](https://github.com/Twinkle0799/Competitive_Programming-And-DSA/tree/traffic#-Competitive_Programming-And-DSA)
-[![views per week](https://raw.githubusercontent.com/Twinkle0799/Competitive_Programming-And-DSA/traffic/traffic-Competitive_Programming-And-DSA/views_per_week.svg)](https://github.com/Twinkle0799/Competitive_Programming-And-DSA/tree/traffic#-Competitive_Programming-And-DSA)
-[![clones](https://raw.githubusercontent.com/Twinkle0799/Competitive_Programming-And-DSA/traffic/traffic-Competitive_Programming-And-DSA/clones.svg)](https://github.com/Twinkle0799/Competitive_Programming-And-DSA/tree/traffic#-Competitive_Programming-And-DSA)
-[![clones per week](https://raw.githubusercontent.com/Twinkle0799/Competitive_Programming-And-DSA/traffic/traffic-Competitive_Programming-And-DSA/clones_per_week.svg)](https://github.com/Twinkle0799/Competitive_Programming-And-DSA/tree/traffic#-Competitive_Programming-And-DSA)
+[![views](https://raw.githubusercontent.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/traffic/traffic-Competitive_Programming-And-DSA/views.svg)](https://github.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/tree/traffic#-Competitive_Programming-And-DSA)
+[![views per week](https://raw.githubusercontent.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/traffic/traffic-Competitive_Programming-And-DSA/views_per_week.svg)](https://github.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/tree/traffic#-Competitive_Programming-And-DSA)
+[![clones](https://raw.githubusercontent.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/traffic/traffic-Competitive_Programming-And-DSA/clones.svg)](https://github.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/tree/traffic#-Competitive_Programming-And-DSA)
+[![clones per week](https://raw.githubusercontent.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/traffic/traffic-Competitive_Programming-And-DSA/clones_per_week.svg)](https://github.com/TwinkleguptaCLS/Competitive_Programming-And-DSA/tree/traffic#-Competitive_Programming-And-DSA)
 ```
