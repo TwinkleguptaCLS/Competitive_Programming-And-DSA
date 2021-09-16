@@ -2,14 +2,8 @@
   {
     "path": "/TwinkleguptaCLS/Competitive_Programming-And-DSA",
     "title": "TwinkleguptaCLS/Competitive_Programming-And-DSA: This repo consist all my per...",
-    "count": 19,
-    "uniques": 12
-  },
-  {
-    "path": "/TwinkleguptaCLS/Competitive_Programming-And-DSA/tree/master/Number_Theory",
-    "title": "Competitive_Programming-And-DSA/Number_Theory at master · TwinkleguptaCLS/Com...",
-    "count": 4,
-    "uniques": 3
+    "count": 18,
+    "uniques": 11
   },
   {
     "path": "/TwinkleguptaCLS/Competitive_Programming-And-DSA/tree/master/Sorting_Searching",
@@ -18,22 +12,10 @@
     "uniques": 3
   },
   {
-    "path": "/TwinkleguptaCLS/Competitive_Programming-And-DSA/tree/master/Bit_Manipulation",
-    "title": "Competitive_Programming-And-DSA/Bit_Manipulation at master · TwinkleguptaCLS/...",
+    "path": "/TwinkleguptaCLS/Competitive_Programming-And-DSA/tree/master/Number_Theory",
+    "title": "Competitive_Programming-And-DSA/Number_Theory at master · TwinkleguptaCLS/Com...",
     "count": 2,
     "uniques": 2
-  },
-  {
-    "path": "/TwinkleguptaCLS/Competitive_Programming-And-DSA/blob/master/Bit_Manipulation/AllSubset.cpp",
-    "title": "Competitive_Programming-And-DSA/AllSubset.cpp at master · TwinkleguptaCLS/Com...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/TwinkleguptaCLS/Competitive_Programming-And-DSA/blob/master/Number_Theory/Armstrong.cpp",
-    "title": "Competitive_Programming-And-DSA/Armstrong.cpp at master · TwinkleguptaCLS/Com...",
-    "count": 1,
-    "uniques": 1
   },
   {
     "path": "/TwinkleguptaCLS/Competitive_Programming-And-DSA/blob/master/Number_Theory/DecToBin.cpp",
@@ -56,6 +38,24 @@
   {
     "path": "/TwinkleguptaCLS/Competitive_Programming-And-DSA/blob/master/Number_Theory/isPrime.cpp",
     "title": "Competitive_Programming-And-DSA/isPrime.cpp at master · TwinkleguptaCLS/Compe...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/TwinkleguptaCLS/Competitive_Programming-And-DSA/blob/master/Number_Theory/ListPrime.cpp",
+    "title": "Competitive_Programming-And-DSA/ListPrime.cpp at master · TwinkleguptaCLS/Com...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/TwinkleguptaCLS/Competitive_Programming-And-DSA/blob/master/Number_Theory/PythagorianTriplet.cpp",
+    "title": "Competitive_Programming-And-DSA/PythagorianTriplet.cpp at master · Twinklegup...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/TwinkleguptaCLS/Competitive_Programming-And-DSA/branches",
+    "title": "Branches · TwinkleguptaCLS/Competitive_Programming-And-DSA",
     "count": 1,
     "uniques": 1
   }
