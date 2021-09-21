@@ -2,26 +2,8 @@
   {
     "path": "/TwinkleguptaCLS/Competitive_Programming-And-DSA",
     "title": "TwinkleguptaCLS/Competitive_Programming-And-DSA: This repo consist all my per...",
-    "count": 20,
-    "uniques": 14
-  },
-  {
-    "path": "/TwinkleguptaCLS/Competitive_Programming-And-DSA/tree/master/Number_Theory",
-    "title": "Competitive_Programming-And-DSA/Number_Theory at master · TwinkleguptaCLS/Com...",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/TwinkleguptaCLS/Competitive_Programming-And-DSA/blob/master/Number_Theory/DecToBin.cpp",
-    "title": "Competitive_Programming-And-DSA/DecToBin.cpp at master · TwinkleguptaCLS/Comp...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/TwinkleguptaCLS/Competitive_Programming-And-DSA/blob/master/Number_Theory/GCD.cpp",
-    "title": "Competitive_Programming-And-DSA/GCD.cpp at master · TwinkleguptaCLS/Competiti...",
-    "count": 1,
-    "uniques": 1
+    "count": 17,
+    "uniques": 13
   },
   {
     "path": "/TwinkleguptaCLS/Competitive_Programming-And-DSA/blob/master/Number_Theory/isPrime",
@@ -32,12 +14,6 @@
   {
     "path": "/TwinkleguptaCLS/Competitive_Programming-And-DSA/blob/master/Number_Theory/isPrime.cpp",
     "title": "Competitive_Programming-And-DSA/isPrime.cpp at master · TwinkleguptaCLS/Compe...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/TwinkleguptaCLS/Competitive_Programming-And-DSA/blob/master/Number_Theory/ListPrime.cpp",
-    "title": "Competitive_Programming-And-DSA/ListPrime.cpp at master · TwinkleguptaCLS/Com...",
     "count": 1,
     "uniques": 1
   },
@@ -56,6 +32,30 @@
   {
     "path": "/TwinkleguptaCLS/Competitive_Programming-And-DSA/branches/active",
     "title": "Branches · TwinkleguptaCLS/Competitive_Programming-And-DSA",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/TwinkleguptaCLS/Competitive_Programming-And-DSA/tree/master/Backtrack",
+    "title": "Competitive_Programming-And-DSA/Backtrack at master · TwinkleguptaCLS/Competi...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/TwinkleguptaCLS/Competitive_Programming-And-DSA/tree/master/Backtrack/recur",
+    "title": "Competitive_Programming-And-DSA/Backtrack/recur at master · TwinkleguptaCLS/C...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/TwinkleguptaCLS/Competitive_Programming-And-DSA/tree/master/Bit_Manipulation",
+    "title": "Competitive_Programming-And-DSA/Bit_Manipulation at master · TwinkleguptaCLS/...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/TwinkleguptaCLS/Competitive_Programming-And-DSA/tree/master/CSES",
+    "title": "Competitive_Programming-And-DSA/CSES at master · TwinkleguptaCLS/Competitive_...",
     "count": 1,
     "uniques": 1
   }
