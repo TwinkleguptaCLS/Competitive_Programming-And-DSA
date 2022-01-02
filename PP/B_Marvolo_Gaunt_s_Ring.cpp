@@ -26,21 +26,18 @@ int main()
         FOR(i, N)
         cin >> a[i];
         ll pmax[N];
-        ll smax[N];
+        ll smax;
         ll ans = LLONG_MIN;
         pmax[0] = p*a[0];
-        smax[N-1] = r* a[N-1];
         for(ll i=1;i<N;i++)
         {
             pmax[i] = max(pmax[i-1],p*a[i]);
         }
-        for(ll i=N-2;i>=0;i--)
+        smax = r*a[N-1];
+        for(ll i=N-1;i>=0;i--)
         {
-            smax[i] = max(smax[i+1],r*a[i]);
-        }
-        for(ll i=0;i<N;i++)
-        {
-            ans = max(ans, pmax[i] + q*a[i]+smax[i]);
+            smax = max(smax,r*a[i]);
+            ans = max(ans, pmax[i] + q*a[i]+smax);
         }
         cout<<ans;
 
